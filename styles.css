@@ -312,6 +312,7 @@ button {
   position: relative;
   display: inline-block;
   text-decoration: none;
+  color: #5d5d5d;
 }
 
 .link-explore::after {
